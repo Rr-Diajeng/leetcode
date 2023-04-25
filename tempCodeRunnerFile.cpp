@@ -1,0 +1,1 @@
+printf("Masuk sini di dig 9 flag > 0: %d\n", ans[i]);
